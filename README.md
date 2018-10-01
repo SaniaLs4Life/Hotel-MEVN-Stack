@@ -1,4 +1,4 @@
-# hotel-mevn-stack
+# Hotel MEVN App
 
 > A simple MEVN app for Hotels
 
